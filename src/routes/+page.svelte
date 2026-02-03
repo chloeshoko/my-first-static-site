@@ -10,7 +10,7 @@
 
   // Article metadata
   let headline = 'Hi.';
-  let byline = 'this is Chloe';
+  let byline = 'this is Copilot';
   let pubDate = '2026-01-31';
 
   // Related stories
